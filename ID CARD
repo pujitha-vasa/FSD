@@ -1,0 +1,23 @@
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <div style="width: 300px; border: 2px solid #000; border-radius: 10px; padding: 20px; text-align: center; font-family: Arial, sans-serif;">
+        <img src="https://sasi.ac.in/wp-content/uploads/2024/08/SASI-LOGO-960x188-1-800x157-1.png" alt="Sasi College Logo" style="width: 100%; height: auto;">
+        <img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLpWjFF6ju0YnIhAaK2LVrdcOFZzc7M0EmULLDEuKhEWQuF15LaZNJ_BVAc8PLJUFixo&usqp=CAU " alt="Student Photo" style="width: 100px; height: auto; border-radius: 50%; margin: 10px 0;">
+        <h3 style="color: green;">V PUJTIHA NAGA SOMESWARI</h3>
+        <p><b>
+          <span style="color: blue;">B.Tech-</span>
+          <span style="color: red;">CSE</span>        
+       </p>
+        <p style="color:blue">23K61A05I4</b></p>
+        <img src="https://barcode.tec-it.com/barcode.ashx?data=23K61A05I4&code=Code128&translate-esc=off" alt="Barcode" style="margin-top: 10px;">
+        <pre><b>Aadhar No:5240 1640 2688      Valid:2023-2027</b></pre>
+        <pre><b>Father:V RAMA KOTI CHANDRA RAO    B.G:-AB</b></pre>
+        <pre align="left"><b>Village:Achanta</b>             <img src="image.jpg" align="right" style="width:30%; height:6%";></pre>
+        <pre align="left"><b>Cell:9133573671                 principal</b></pre>
+    </div>
+</body>
+</html>
+
