@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>
+id card in table</title>
+<style>
+table, th,td {
+  border: 2px solid black;
+  border-radius: 1px;
+}
+table{
+     width: 50%;
+}
+</style>
+</head>
+<body style:"width: 50%; margin: 0 auto;">
+
+<center>
+<table>
+<th style="background-color:pink";><img src="https://www.rubaitulazad.com/bucket/2023/04/SASI-LOGO-960x188-1.png" alt="Sasi College Logo" style="width: 50%; height: 30%; "></th>
+<tr>
+<td align ="center";>
+<img src=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFLpWjFF6ju0YnIhAaK2LVrdcOFZzc7M0EmULLDEuKhEWQuF15LaZNJ_BVAc8PLJUFixo&usqp=CAU " alt="Student Photo" style="width: 100px; height: auto; border-radius: 50%; margin: 10px 0;">
+</td>
+
+</tr>
+<tr>
+<td  align ="center"; style="color:green">V PUJITHA NAGA SOMESWARI
+</td >
+</tr>
+<tr>
+<td align ="center";>B.Tech-CSE</td>
+</tr>
+<tr>
+<td align ="center"; style ="color:blue">23K65A05I4</td>
+</tr>
+<tr>
+<td align ="center";>
+<img src="https://barcode.tec-it.com/barcode.ashx?data=23K61A05I4&code=Code128&translate-esc=off" alt="Barcode" style="margin-top: 10px; style="width: 250px";>
+</td>
+</tr>
+<tr>
+<td>
+<style="background-color:pink";>
+<pre><h3 align = "left">Aadhar No:524026881640                                                         VALID:2023-27</h3></pre>
+</td >
+</tr>
+<tr>
+<td>
+<pre><h3 align = "left">Father:V R K CHANDRA RAO                                                          BG:-AB</h3></pre>
+</td >
+</tr>
+<tr>
+<td><h4>
+ Village:ACHANTA</h4>
+</td>
+</tr>
+<tr>
+<td>
+<pre><h3 align="left">CELL:9133038689                                                                 Principal</h3></pre>
+</td>
+</style>
+</table>
+</center>
+</html>
