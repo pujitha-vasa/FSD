@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Text formatting</title>
+</head>
+<body>
+<b>Helloworld</b><br>
+<i>Helloworld</i><br>
+<u>Helloworld</u><br>
+<sub>Helloworld</sub><br>
+<sup>Helloworld</sup><br>
+<blink>Helloworld</blink><br>
+<strike>Helloworld</strike><br>
+<tt>Helloworld</tt><br>
+<pre>Helloworld</pre>
+<em>Helloworld</em><br>
+<strong>Helloworld</strong><br>
+</body>
+</html>
