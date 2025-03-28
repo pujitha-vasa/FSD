@@ -1,0 +1,51 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Frames Example</title> 
+</head> 
+<frameset cols="33%, 34%, 33%"> 
+<frame src="image.html" name="frame1"> 
+<frame src="paragraph.html" name="frame2"> 
+<frame src="link.html" name="frame3"> 
+<noframes> 
+<body> 
+<p>Your browser does not support frames. Please update your browser.</p> 
+</body> 
+</noframes> 
+</frameset> 
+</html>
+Image.html
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Image Frame</title> 
+</head> 
+<body> 
+<img src="C:\Users\salad\OneDrive\Documents\OneDrive\Pictures\your-image.jpg" width="200" height="300"> 
+</body> 
+</html>
+Paragraph.html
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Paragraph Frame</title> 
+</head> 
+<body> 
+<p>This is a sample paragraph inside the second frame. It demonstrates how text content is displayed.</p> 
+</body> 
+</html>
+
+
+
+
+
+Link.html
+<!DOCTYPE html> 
+<html> 
+<head> 
+<title>Link Frame</title> 
+</head> 
+<body> 
+<a href="https://www.linkedin.com/in/teja-saladi-3375a62a1/" target="_blank">Visit linkedin Website</a> 
+</body> 
+</html>
