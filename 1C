@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>BASIC2</title>
+</head>
+<body> 
+	<h1 align="center">HELLOWORLD</h1>
+	<h2 align="right">HELLOWORLD</h2>
+	<h3 align="left">HELLOWORLD</h3>
+	<h4 align="center">HELLOWORLD</h4>
+	<h5 align="right">HELLOWORLD</h5>
+	<h6 align="left">HELLOWORLD</h6>
+        <p>this is the program to print the helloworld</p>
+</body>
+</html>
